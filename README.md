@@ -7,7 +7,7 @@
 
 Привіт! Я займаюся розробкою, моддингом та **українською локалізацією** відеоігор. Моя мета — зробити так, щоб улюблені стратегії та симулятори звучали й читалися українською мовою якісно та автентично.
 
-* 🌐 Мої локалізації активно підтримуються на платформі **[LBK Launcher](https://lbklauncher.com)**.
+* 🌐 Мої локалізації активно підтримуються на платформі **[LBK Launcher](https://lbklauncher.com/games?team=EYELESS)**.
 * 🛠️ Спеціалізуюся на роботі зі структурами даних ігор (XML, JSON, локалізаційні файли Paradox/Triumph).
 * ⚙️ Окрім ігор, цікавлюся DIY-інженерією, ЧПК (CNC) машинами та 3D-принтерами.
 
@@ -17,8 +17,8 @@
 
 | Проект | Статус | Платформи |
 | :--- | :---: | :--- |
-| **Age of Wonders 4** | ![В розробці](https://img.shields.io/badge/-В_розробці-orange?style=flat-square) | [GitHub](https://github.com/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization) / LBK / Steam Workshop |
-| **The Guild 3** | ![Готово](https://img.shields.io/badge/-Готово-brightgreen?style=flat-square) | [GitHub](https://github.com/EYELESS-UA/The-Guild-3-Ukrainian-Localization) / LBK Launcher |
+| **Age of Wonders 4** | ![В розробці](https://img.shields.io/badge/-В_розробці-orange?style=flat-square) | [GitHub](https://github.com/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization) / [LBK](https://lbklauncher.com/games/age_of_wonders_4/eyeless) / [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3391786639) |
+| **The Guild 3** | ![Готово](https://img.shields.io/badge/-Готово-brightgreen?style=flat-square) | [GitHub](https://github.com/EYELESS-UA/The-Guild-3-Ukrainian-Localization) / [LBK](https://lbklauncher.com/games/the_guild_3/eyeless) |
 | **Age of Wonders: Planetfall** | ![В розробці](https://img.shields.io/badge/-В_розробці-orange?style=flat-square) | [GitHub](https://github.com/EYELESS-UA/Age-of-Wonders-Planetfall-Ukrainian-Localization) / LBK |
 
 ---
@@ -32,10 +32,3 @@
   <!-- Картка мов та типів файлів, що використовуються -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYELESS-UA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
----
-
-## 📬 Де мене знайти
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/ТВІЙ_НІК_АБО_КАНАЛ)
-[![LBK Launcher](https://img.shields.io/badge/Платформа-LBK-blue?style=for-the-badge)](https://lbklauncher.com)
